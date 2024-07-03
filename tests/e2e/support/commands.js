@@ -54,7 +54,7 @@ Cypress.Commands.add('startGame', (time, mode, place, multiplayer) => {
         cardRoom
             .get('.v-card__title span')
             .contains(
-                'Type a room name to create a new room or join a existing room'
+                'Create or join a room by typing its name.'
             );
         cardRoom.get('#inputRoomName').type('cy' + multiplayer);
         cardRoom

@@ -140,7 +140,7 @@
     "alreadyStarted": "This room has already started.  Please try another."
   },
   "CardRoomName": {
-    "title": "Type a room name to create a new room or join a existing room"
+    "title": "Create or join a room by typing its name."
   },
   "CardRoomPlayerName": {
     "title": "Room:",

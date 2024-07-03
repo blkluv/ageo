@@ -28,7 +28,7 @@ describe('Multiplayer', () => {
 
         const card = cy.get('#card-roomname');
         card.get('.v-card__title span').contains(
-            'Type a room name to create a new room or join a existing room'
+            'Create or join a room by typing its name.'
         );
         card.get('#inputRoomName').type('cy' + id);
 

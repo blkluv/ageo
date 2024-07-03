@@ -1,7 +1,7 @@
 <template>
     <div>
         <v-app-bar class="header" height="100">
-            <router-link to="/">
+            <router-link to="https://geo.atl5d.com">
                 <img class="header__logo" src="@/assets/geoguessLogo.png" />
                 <img
                     class="header__logo-min"
@@ -67,7 +67,7 @@
                     {{ $t('Demo.message') }}
                 </v-col>
                 <v-col class="shrink">
-                    <v-btn target="_blank" href="https://discord.gg/9GXm6RT">
+                    <v-btn target="_blank" href="https://discord.gg/K8URcAM2qz">
                         <v-icon left> mdi-discord </v-icon>
                         {{ $t('Demo.btn') }}
                     </v-btn>

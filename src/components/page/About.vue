@@ -7,7 +7,7 @@
             <p class="section-description">
                 {{ $t('Home.aboutDescriptions.1') }}
                 <br>{{ $t('Home.aboutDescriptions.2') }}
-                <a href="https://geoguessmaster.com/">GeoGuess Master</a>.
+                <a href="https://buy.stripe.com/8wM3dxfWv8LG9q07t2">Geo Tips</a>.
             </p>
 
             <h3 class="section-header">

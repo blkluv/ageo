@@ -1,8 +1,8 @@
 {
   "name": "geoguess",
   "version": "1.0.0",
-  "description": "GeoGuess is an open-source geography game with Google Map StreetView.",
-  "author": "Bilel Jegham and others",
+  "description": "Geo is a geography game with Google Map StreetView.",
+  "author": "The Wizard of Hahz",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",

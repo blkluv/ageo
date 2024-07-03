@@ -10,8 +10,8 @@
       "enterCity": "Enter city, state or country"
     },
     "aboutDescriptions": {
-      "1": "Geoguess is a free and lazy geoguess game with no ads.                  Players compete how close the player can guess random locations in five rounds.                 You can share the score with other people via social media like Facebook or Twitter.                 You can play multiplayer games with your friends up to five friends.                  The first player creates a room and decides the room size. Other players type the same room name as the first player created and the game will start.",
-      "2": "This game was forked from "
+      "1": "Geo is a free geoguess game with no ads.                  Players compete how close the player can guess random locations in five rounds.                 You can share the score with other people via social media like Facebook or Twitter.                 You can play multiplayer games with your friends up to five friends.                  The first player creates a room and decides the room size. Other players type the same room name as the first player created and the game will start.",
+      "2": "Please tip us to keep our game free "
     },
     "customMap": "CUSTOMS MAP",
     "customMapDescriptions": {
@@ -23,7 +23,7 @@
       "6": "Customs Map selection : "
     },
     "limitation": "LIMITATION",
-    "limitationDescription": "Currently I set quotas per day so the cost to run this game can't get too high.             If the map doesn't load, it means the quota has been exceeded on the day.             It will reset at midnight Pacific Time. Sorry for the inconvenience.             This game is open source so you can build your own game server and play this game unlimitedly.",
+    "limitationDescription": "Currently the quotas per day are capped so the cost to run this game can't get too high.             If the map doesn't load, it means the quota has been exceeded on the day.             It will reset at midnight Pacific Time. Sorry for the inconvenience.             This game is open source so you can build your own game server and play this game unlimitedly.",
     "play": "Play",
     "streamerModeActivate": "Streamer mode activate",
     "streamerModeDetails": "URLs and room names are hidden",
